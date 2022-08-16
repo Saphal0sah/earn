@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/refresh"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="9dp"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        tools:context=".VideoFragment">
+
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</layout>
